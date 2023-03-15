@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 find . -depth -empty printf "%f\n"
